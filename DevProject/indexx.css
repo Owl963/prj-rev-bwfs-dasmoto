@@ -1,0 +1,46 @@
+h1 {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+    font-size: 150px;
+    color: Khaki;
+    font-family: Helvetica;
+}
+
+.lulu {
+	background-color: MediumSpringGreen;
+	font-family: Helvetica;
+	color: White;
+	font-size: 35px;
+}
+
+.lala {
+	color: Blue;
+}
+
+.lele {
+	background-color: LightCoral;
+}
+
+body {
+	font-family: Helvetica;
+}
+
+h2 {
+	font-size: 35px;
+	color: White;
+}
+
+.toilet {
+	background-color: SkyBlue;
+}
+
+.lili {
+	color: Blue;
+}
+
+.lb {
+	color: Blue;
+}
+
+div {
+	text-align: center;
+}
